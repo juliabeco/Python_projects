@@ -1,4 +1,4 @@
-# Proyecto Final - Alumna: Julia Becaria Coquet
+# Proyecto Final
 # Julio 2023
 
 # Programa para gestionar una agenda telefónica con los nombres y los teléfonos de los conocidos de una persona
